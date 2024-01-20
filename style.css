@@ -91,3 +91,9 @@ body{
     cursor: pointer;
     background-color:  var(--primary-color);
 }
+
+@media screen and (max-width: 480px) {
+    #card{
+        padding: 24px 35px;
+    }
+}
