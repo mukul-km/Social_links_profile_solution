@@ -27,7 +27,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [solution URL](https://github.com/mukul-km/Social-links-profile-solution)
-- Live Site URL: [live site URL](https://mukul-km.github.io/Qr-code-component-solution/)
+- Live Site URL: [live site URL](https://mukul-km.github.io/Social-links-profile-solution/)
 
 ## My process
 
