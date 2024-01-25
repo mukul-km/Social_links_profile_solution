@@ -94,7 +94,7 @@ body{
 
 @media screen and (max-width: 480px) {
     #card{
-        padding: 24px 35px;
+        padding: 24px 32px;
     }
     #socialLinks{
         width: 260px;
